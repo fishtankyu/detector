@@ -1,5 +1,3 @@
-# detector
-
 # 项目结构升级
 next-gen-ai-scanner/
 ├── requirements.txt              # 新增ML依赖
